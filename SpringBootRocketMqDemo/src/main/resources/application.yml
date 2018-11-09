@@ -1,0 +1,10 @@
+apache:
+  rocketmq:
+    consumer:
+      pushConsumer: tt
+    producer:
+      producerGroup: tt
+    namesrvAddr: 127.0.0.1:9876
+
+server:
+  port:8085
